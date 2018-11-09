@@ -1,10 +1,8 @@
-Second edit in testing branch.
-
 ========================================================================
        CONSOLE APPLICATION : MontyHall
 ========================================================================
 
-This is a line of text.
+This is the official 2.0 release.
 
 AppWizard has created this MontyHall application for you.  
 
