@@ -10,6 +10,8 @@
 // at that point will win 2 out of 3 times where the original guess has 1 out of 3
 // chances of being correct.
 //
+// Created 12/2017.
+//
 ////////////
 
 #include "stdafx.h"
