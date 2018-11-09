@@ -2,7 +2,7 @@
        CONSOLE APPLICATION : MontyHall
 ========================================================================
 
-Now working on the next version.
+Something in the next (future v2.2) that should conflict with the v2.1 branch.
 
 AppWizard has created this MontyHall application for you.  
 
