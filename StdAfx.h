@@ -2,6 +2,9 @@
 //  or project specific include files that are used frequently, but
 //      are changed infrequently
 //
+// comment added on McKLap to 2.1
+
+
 
 #if !defined(AFX_STDAFX_H__173E63E4_4F37_4868_926D_BDEA483FC2E6__INCLUDED_)
 #define AFX_STDAFX_H__173E63E4_4F37_4868_926D_BDEA483FC2E6__INCLUDED_
