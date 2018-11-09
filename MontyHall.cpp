@@ -21,7 +21,7 @@
 #include "time.h"
 #include "conio.h"
 
-  // prototypes
+  // local prototypes
 void Pause();
 void MontyHallProblem();
 void BertrandsBoxProblem();
