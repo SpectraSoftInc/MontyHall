@@ -2,7 +2,7 @@
        CONSOLE APPLICATION : MontyHall
 ========================================================================
 
-Now working on releasing v2.1
+This is the final v2.1 release.
 
 AppWizard has created this MontyHall application for you.  
 
