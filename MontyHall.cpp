@@ -12,7 +12,7 @@
 //
 // Created 12/2017.
 //
-// Copyright 2018 by SpectraSoft, Inc.
+// (c) Copyright by SpectraSoft, Inc.
 //
 ////////////
 
