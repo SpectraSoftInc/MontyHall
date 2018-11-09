@@ -12,6 +12,8 @@
 //
 // Created 12/2017.
 //
+// Copyright 2018 by SpectraSoft, Inc.
+//
 ////////////
 
 #include "stdafx.h"
