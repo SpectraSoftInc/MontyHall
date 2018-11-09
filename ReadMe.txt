@@ -2,6 +2,7 @@
        CONSOLE APPLICATION : MontyHall
 ========================================================================
 
+This is a line of text.
 
 AppWizard has created this MontyHall application for you.  
 
