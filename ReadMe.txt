@@ -2,7 +2,7 @@
        CONSOLE APPLICATION : MontyHall
 ========================================================================
 
-Now working on the next version.
+Now working on the next version.  {edit after moving to Chisel}
 
 AppWizard has created this MontyHall application for you.  
 
